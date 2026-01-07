@@ -1,6 +1,6 @@
 ---
 title: "AWS Cloud Computing"
-excerpt: "Fundamental understanding of AWS cloud core services and understand the technical roles required for cloud success<br/><img src='/images/AWS Intro to Cloud Computing.png' width='100' height='100'>""
+excerpt: "Fundamental understanding of AWS cloud core services and understand the technical roles required for cloud success<br/><img src='/images/AWS Intro to Cloud Computing.png' width='100' height='100'>"
 collection: portfolio
 ---
 
