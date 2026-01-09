@@ -27,7 +27,7 @@ Work experience
   * Duties included: providing customer service, helping with tech questions, acting as a tech-savvy sales associate and cashier for the electronics section, often dealing with various products from games to smart devices. 
   * Supervisor: Jonathan Moreno
 
-* Winter 2024: Processing Associate
+* Winter 2023: Processing Associate
   * Goodwill Industries of SWFL
   * Duties included: sorting, grading, tagging, and pricing donated goods, adhering to production goals and company standards to support mission services
   * Supervisor: Xavier Scott
@@ -39,7 +39,7 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Customer Service
 
 Publications
 ======
